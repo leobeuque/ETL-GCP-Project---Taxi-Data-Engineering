@@ -1,8 +1,8 @@
-# Uber Data Engineering | ETL GCP Project
+# Taxi Data Engineering | ETL GCP Project
 
 ## Introduction
 
-The goal of this project is to create an ETL pipeline for Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool and BigQuery(SQL).
+The goal of this project is to create an ETL pipeline for Taxi data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool and BigQuery(SQL).
 
 ## Technology Used
 - Programming Language - Python

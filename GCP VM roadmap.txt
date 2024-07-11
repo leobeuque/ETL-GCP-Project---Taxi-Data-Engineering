@@ -1,0 +1,34 @@
+# Install Python and pip 
+
+sudo apt-get update
+sudo apt-get install python3-distutils
+sudo apt-get install python3-apt
+
+# Create a python virtual environment with virtualenv
+
+pip install virtualenv
+virtualenv venv
+source venv/bin/activate
+
+# Install custom requirements.txt 
+
+pip install -r requirements.txt
+
+# Install Mage
+sudo pip3 install mage-ai
+
+# Try to start Mage
+
+mage start project_name
+
+# If there are debug warning
+
+PYDEVD_DISABLE_FILE_VALIDATION=1 ipython kernel install --user --name=testi2
+PYDEVD_DISABLE_FILE_VALIDATION=1 mage start project_name
+
+# Do not forget to create a firewall rule on GCP
+
+# Install Google Cloud Library
+sudo pip3 install google-cloud
+sudo pip3 install google-cloud-bigquery
+

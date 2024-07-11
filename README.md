@@ -13,9 +13,9 @@ The goal of this project is to create an ETL pipeline for Uber data using variou
 - SQL
 
 - Google Cloud Platform
-  1. Google Storage
-  2. Compute Instance 
-  3. BigQuery
+1. Google Storage
+2. Compute Instance 
+3. BigQuery
 
 - Mage: Modern Data Pipeline Tool that provides ETL script templates - https://www.mage.ai/
 Contribute to this open source project - https://github.com/mage-ai/mage-ai

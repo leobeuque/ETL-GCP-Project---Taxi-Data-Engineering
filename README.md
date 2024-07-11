@@ -33,4 +33,5 @@ Dictionary for the dataset:  https://www.nyc.gov/assets/tlc/downloads/pdf/data_d
 Relational Database:
 
 -The main table, which contains most of the useful information.
+
 -Two tables provided as unnecessary examples of metadata repositories.
